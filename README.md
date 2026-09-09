@@ -1,5 +1,14 @@
 # Mintlify Starter Kit
 
+<p>
+  <a href="https://github.com/0xdhrv/docs/stargazers">
+    <img alt="GitHub stars" src="https://shieldcn.dev/github/stars/0xdhrv/docs.svg?variant=secondary" />
+  </a>
+  <a href="https://github.com/0xdhrv/docs/commits">
+    <img alt="Last commit" src="https://shieldcn.dev/github/commits/0xdhrv/docs.svg?variant=secondary" />
+  </a>
+</p>
+
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages
